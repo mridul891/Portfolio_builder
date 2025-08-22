@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.6.2"
+  "packageManager": "pnpm@10.6.2",
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "@types/pdf-parse": "^1.1.5",
+    "express": "^5.1.0",
+    "pdf-parse": "^1.1.1"
+  }
 }
